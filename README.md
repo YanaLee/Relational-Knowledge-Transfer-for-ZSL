@@ -9,7 +9,7 @@ How to Run
 
 2. Open the Matlab, make the current dir to be the Relational-Knowledge-Transfer-for-ZSL, run "code/ZSL/v-release/DAL_F2K2C_main.m"
 
-Quote
+Citation
 -------------------------
 <pre>
 @paper{AAAI1611802,
