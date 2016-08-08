@@ -11,6 +11,7 @@ How to Run
 
 Citation
 -------------------------
+If you find the dataset and toolbox useful in your research, please consider citing:
 <pre>
 @paper{AAAI1611802,
     author = {Donghui Wang and Yanan Li and Yuetan Lin and Yueting Zhuang},
@@ -27,3 +28,5 @@ Citation
 Any Question?
 -------------------------
 Send Email to Me
+
+ynli@zju.edu.cn
