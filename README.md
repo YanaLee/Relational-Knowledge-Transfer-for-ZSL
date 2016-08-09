@@ -3,6 +3,10 @@ Relation Knowledge Transfer for Zero-Shot Learning
 This is the implement of  paper "Relation Knowledge Transfer for Zero-Shot Learning "(Donghui Yanan+ 2015 AAAI)
 [http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11802]
 
+Get The Support
+-------------------------
+Download the SLEP4.1 on http://www.yelab.net/software/SLEP/ and replace the dir SLEP_package_4.1 in support 
+
 How to Run
 -------------------------
 1. Download the Dataset on google drive (https://drive.google.com/open?id=0B2u0zk7WYuVpNDFZSUxYNzlqRWs), and put them into the dataset dir
